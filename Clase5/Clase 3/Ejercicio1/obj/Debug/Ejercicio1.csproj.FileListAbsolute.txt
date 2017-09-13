@@ -1,0 +1,11 @@
+D:\Mis Documentos\Visual Studio 2012\Projects\Clase 3\Ejercicio1\bin\Debug\Ejercicio1.exe.config
+D:\Mis Documentos\Visual Studio 2012\Projects\Clase 3\Ejercicio1\bin\Debug\Ejercicio1.exe
+D:\Mis Documentos\Visual Studio 2012\Projects\Clase 3\Ejercicio1\bin\Debug\Ejercicio1.pdb
+D:\Mis Documentos\Visual Studio 2012\Projects\Clase 3\Ejercicio1\bin\Debug\Entidades.Clase05.dll
+D:\Mis Documentos\Visual Studio 2012\Projects\Clase 3\Ejercicio1\bin\Debug\Entidades.Clase05.pdb
+D:\Mis Documentos\Visual Studio 2012\Projects\Clase 3\Ejercicio1\obj\Debug\Ejercicio1.csprojResolveAssemblyReference.cache
+D:\Mis Documentos\Visual Studio 2012\Projects\Clase 3\Ejercicio1\obj\Debug\Ejercicio1.exe
+D:\Mis Documentos\Visual Studio 2012\Projects\Clase 3\Ejercicio1\obj\Debug\Ejercicio1.pdb
+E:\Facultad\Segundo cuatrimestre\Laboratorio II - Programacion II\Laboratorio\Clase 3 Lab\Clase 3\Ejercicio1\bin\Debug\Ejercicio1.exe.config
+E:\Facultad\Segundo cuatrimestre\Laboratorio II - Programacion II\Laboratorio\Clase 3 Lab\Clase 3\Ejercicio1\obj\Debug\Ejercicio1.exe
+E:\Facultad\Segundo cuatrimestre\Laboratorio II - Programacion II\Laboratorio\Clase 3 Lab\Clase 3\Ejercicio1\obj\Debug\Ejercicio1.pdb
