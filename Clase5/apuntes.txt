@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Generar Libraria de clases:
 
 (en solucion)->click derecho->add->new proyect->class library
@@ -38,3 +39,45 @@ este metodo se llama "==". Adentro, va un if que compara ambas tintas y retorna 
 
 console.write(unaTinta == otraTinta)
 
+=======
+Generar Libraria de clases:
+
+(en solucion)->click derecho->add->new proyect->class library
+
+CONSTRUYO la libreria de clases. Para esto:
+
+-click derecho en la entidad->build
+
+--Esto se hace siempre que haga modificaciones--
+
+
+
+-Hay que agregar la referencia del proyecto a la entidad. Para esto:
+
+click derecho (en ejercicio1, references)->add reference->solution
+
+
+-aca puedo usar "using (nombre de clase)" para incluirlo y codear mas facil
+
+
+----------------
+
+SOBRECARGA DE OPERADORES
+
+(visibilidad) static (retorno) operator (operador) (dato, dato)
+
+
+ej:
+
+public static bool operator == (Tinta unaTinta, Tinta otraTinta)
+
+
+este metodo se llama "==". Adentro, va un if que compara ambas tintas y retorna true o false segun sean iguales o no
+
+
+-para llamarlo y mostrar por pantalla:
+
+
+console.write(unaTinta == otraTinta)
+
+>>>>>>> refs/remotes/origin/master
