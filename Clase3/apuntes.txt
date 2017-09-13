@@ -1,0 +1,70 @@
+Diferencia entre clase y objeto ---> la clase es una construccion estatica y los objetos residen SIEMPRE en memoria (no antes)
+
+Cuando generamos una clase:
+
+Class Clase
+{
+   //miembros de clase ---> "static" (se puede acceder como Clase.Miembro)
+   //miembros de instancia ---> NO "static" (para acceder hay que generar en memoria un objeto para accederlo, osea, Objeto.Miembro)
+   
+}
+
+-------------------------
+
+La "clase de todas las clases" (int, string, char) es OBJECT. De él se desprenden dos ramas: tipos por valor y tipo referencia
+
+Por valor--> enteros, flotantes, booleanos, estructuras, etc.
+
+-(siempre y cuando esten definidos como atributos en una clase) Estos se inician por defecto en 0 (solo los numericos; los tipos bool se inicializa en FALSE)
+
+
+Por referencia--> strings, objetos, etc.
+
+-Se inicializan por defecto en NULL
+
+-------------------------
+
+La memoria se divide en dos grandes tipos:
+
+Stack --> van las variables definidas en el main (clase, string, int, etc.)
+
+Heap --> van los valores de las variables
+
+-Ejemplo:
+
+	string Cadena; --> se guarda en Stack con valor NULL
+
+	Cadena = "hola"; --> "Hola" va al heap, y en Cadena, que esta en el Stack, se guarda la direccion de memoria donde está "Hola"
+
+
+-------------------------
+
+Constructores
+
+-Constructor sin parametros ---> es un constructor por defecto
+-El nombre del constructor debe ser el mismo que el de la clase
+-Un constructor se encarga de inicializar los elementos de la clase
+
+ejemplo de constructor --> new
+
+
+-------------------------
+
+RESUMEN
+
+Atributos:
+-static ---> clase
+-no static ---> instancias
+
+Metodos:
+-static
+-no static
+
+Constructores:
+-instancia no static
+-clase "static" (no llevan modificador de visibilidad, no reciben parametros, usan static/nombre de clase, son utilizados para inicializar atributos "static", se ejecutan una sola vez por proyecto. Esta vez coincide con el constructor de instancia
+
+
+
+
+

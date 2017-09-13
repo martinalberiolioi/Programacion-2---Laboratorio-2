@@ -1,0 +1,7 @@
+C:\Users\Martín\source\repos\Rueda_Auto\Ejercicio rueda_auto\bin\Debug\Ejercicio rueda_auto.exe.config
+C:\Users\Martín\source\repos\Rueda_Auto\Ejercicio rueda_auto\bin\Debug\Ejercicio rueda_auto.exe
+C:\Users\Martín\source\repos\Rueda_Auto\Ejercicio rueda_auto\bin\Debug\Ejercicio rueda_auto.pdb
+C:\Users\Martín\source\repos\Rueda_Auto\Ejercicio rueda_auto\obj\Debug\Ejercicio rueda_auto.csprojResolveAssemblyReference.cache
+C:\Users\Martín\source\repos\Rueda_Auto\Ejercicio rueda_auto\obj\Debug\Ejercicio rueda_auto.csproj.CoreCompileInputs.cache
+C:\Users\Martín\source\repos\Rueda_Auto\Ejercicio rueda_auto\obj\Debug\Ejercicio rueda_auto.exe
+C:\Users\Martín\source\repos\Rueda_Auto\Ejercicio rueda_auto\obj\Debug\Ejercicio rueda_auto.pdb
