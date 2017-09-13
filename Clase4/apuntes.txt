@@ -1,0 +1,52 @@
+(cuando el profesor escribe en pizarron)
+
+(+) --> publico
+(-) --> priovado
+S --> static
+
+ej:
+
+(+) (nombreVariable) : tipoVariable
+
+
+----------
+
+		//Metodos
+	//Sobrecarga
+
+un metodo puede tener una sobrecarga cuando tiene el mismo nombre, pero distintos parametros
+
+ej:
+
+public void Ejemplo()
+
+public void Ejemplo(int a)
+
+public void Ejemplo(string a)
+
+
+
+aca hay UN metodo y DOS sobrecargas
+
+-Un valor de retorno distinto entre un metodo y otro NO se considera sobrecarga
+-SI se considera sobrecarga cuando los parametros cambian tipo u orden
+
+
+--------------
+
+Este concepto de sobrecargas en metodos funciona IGUAL con constructores
+
+ej:
+
+public Ejemplo() --> inicializa todo en 0
+
+public Ejemplo(int) --> inicializa todo en 0, menos el entero, que lo inicializa en el parametro
+
+public Ejemplo(int, string) --> inicializa todo en 0, menos el entero y el string, que lo inicializa en el parametro
+
+
+para hacer herencia de constructores, uso :this
+
+ej:
+
+public Cosa(int entero):this() ---> inicializa TODO con el valor del constructor Cosa(), y luego inicializa el entero con el valor por parametro
