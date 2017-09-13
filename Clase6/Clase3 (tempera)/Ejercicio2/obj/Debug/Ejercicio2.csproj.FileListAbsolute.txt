@@ -1,0 +1,16 @@
+C:\Users\alumno\Desktop\Clase 3\Ejercicio2\bin\Debug\Ejercicio2.exe.config
+C:\Users\alumno\Desktop\Clase 3\Ejercicio2\bin\Debug\Ejercicio2.exe
+C:\Users\alumno\Desktop\Clase 3\Ejercicio2\bin\Debug\Ejercicio2.pdb
+C:\Users\alumno\Desktop\Clase 3\Ejercicio2\bin\Debug\Entidades.Clase3.dll
+C:\Users\alumno\Desktop\Clase 3\Ejercicio2\bin\Debug\Entidades.Clase3.pdb
+C:\Users\alumno\Desktop\Clase 3\Ejercicio2\obj\Debug\Ejercicio2.csprojResolveAssemblyReference.cache
+C:\Users\alumno\Desktop\Clase 3\Ejercicio2\obj\Debug\Ejercicio2.exe
+C:\Users\alumno\Desktop\Clase 3\Ejercicio2\obj\Debug\Ejercicio2.pdb
+E:\Facultad\Segundo cuatrimestre\Laboratorio II - Programacion II\Programacion\Clase 3\Clase3 (tempera)\Ejercicio2\bin\Debug\Ejercicio2.exe.config
+E:\Facultad\Segundo cuatrimestre\Laboratorio II - Programacion II\Programacion\Clase 3\Clase3 (tempera)\Ejercicio2\obj\Debug\Ejercicio2.exe
+E:\Facultad\Segundo cuatrimestre\Laboratorio II - Programacion II\Programacion\Clase 3\Clase3 (tempera)\Ejercicio2\obj\Debug\Ejercicio2.pdb
+E:\Facultad\Segundo cuatrimestre\Laboratorio II - Programacion II\Programacion\Clase 3\Clase3 (tempera)\Ejercicio2\bin\Debug\Ejercicio2.exe
+E:\Facultad\Segundo cuatrimestre\Laboratorio II - Programacion II\Programacion\Clase 3\Clase3 (tempera)\Ejercicio2\bin\Debug\Ejercicio2.pdb
+E:\Facultad\Segundo cuatrimestre\Laboratorio II - Programacion II\Programacion\Clase 3\Clase3 (tempera)\Ejercicio2\bin\Debug\Entidades.Clase3.dll
+E:\Facultad\Segundo cuatrimestre\Laboratorio II - Programacion II\Programacion\Clase 3\Clase3 (tempera)\Ejercicio2\bin\Debug\Entidades.Clase3.pdb
+E:\Facultad\Segundo cuatrimestre\Laboratorio II - Programacion II\Programacion\Clase 3\Clase3 (tempera)\Ejercicio2\obj\Debug\Ejercicio2.csprojResolveAssemblyReference.cache

@@ -1,0 +1,9 @@
+C:\Users\alumno\Desktop\Clase 3\Entidades.Clase3\bin\Debug\Entidades.Clase3.dll
+C:\Users\alumno\Desktop\Clase 3\Entidades.Clase3\bin\Debug\Entidades.Clase3.pdb
+C:\Users\alumno\Desktop\Clase 3\Entidades.Clase3\obj\Debug\Entidades.Clase3.dll
+C:\Users\alumno\Desktop\Clase 3\Entidades.Clase3\obj\Debug\Entidades.Clase3.pdb
+E:\Facultad\Segundo cuatrimestre\Laboratorio II - Programacion II\Programacion\Clase 3\Clase3 (tempera)\Entidades.Clase3\bin\Debug\Entidades.Clase3.dll
+E:\Facultad\Segundo cuatrimestre\Laboratorio II - Programacion II\Programacion\Clase 3\Clase3 (tempera)\Entidades.Clase3\bin\Debug\Entidades.Clase3.pdb
+E:\Facultad\Segundo cuatrimestre\Laboratorio II - Programacion II\Programacion\Clase 3\Clase3 (tempera)\Entidades.Clase3\obj\Debug\Entidades.Clase3.csprojResolveAssemblyReference.cache
+E:\Facultad\Segundo cuatrimestre\Laboratorio II - Programacion II\Programacion\Clase 3\Clase3 (tempera)\Entidades.Clase3\obj\Debug\Entidades.Clase3.dll
+E:\Facultad\Segundo cuatrimestre\Laboratorio II - Programacion II\Programacion\Clase 3\Clase3 (tempera)\Entidades.Clase3\obj\Debug\Entidades.Clase3.pdb

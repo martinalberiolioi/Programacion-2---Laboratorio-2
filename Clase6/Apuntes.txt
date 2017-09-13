@@ -1,0 +1,39 @@
+ARRAYS EN C#
+
+-Son de tipo "array"
+-Se puede hacer arrays de UN solo tipo (enteros, strings, etc)
+-antes de ser instanciadas, TODO tipo de array va a ser Null. Una vez que se instancie, su valor va a ser
+segun el tipo de variable (int en 0, string en "", bool en false, etc)
+
+-incluso se puede hacer array de arrays
+
+se define como:
+
+tipo[ ] nombre;
+
+
+-para usarla, primero hay que instanciarla --> arrayNumeros = new int[3];
+
+
+-se acceden a sus valores segun su posicion --> arrayNum[0] = 0;
+
+-los array tienen sus metodos, por ejemplo, sort, que los ordena --> Array.Sort(arrayNum, indiceDondeEmpieza, CantidadDeElementos);
+
+
+-metodo FOREACH --> sirve para trabajar con el tamaño exacto del array (como un For pero sin indices)
+
+foreach(int i in arrayNum)
+{
+   console.Writeline(i);
+}
+
+-----------------------------------
+
+MATRICES EN C#
+
+-declaracion --> tipo[,] nombre; (van los corchetes con la coma)
+-inicializacion --> nombre = new tipo[X, y];
+
+
+
+
