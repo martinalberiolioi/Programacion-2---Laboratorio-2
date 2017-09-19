@@ -1,0 +1,5 @@
+D:\Mis Documentos\Clase10\Centralita\obj\Debug\CentralTelefonica.csprojResolveAssemblyReference.cache
+D:\Mis Documentos\Clase10\Centralita\bin\Debug\Centralita.dll
+D:\Mis Documentos\Clase10\Centralita\bin\Debug\Centralita.pdb
+D:\Mis Documentos\Clase10\Centralita\obj\Debug\Centralita.dll
+D:\Mis Documentos\Clase10\Centralita\obj\Debug\Centralita.pdb
